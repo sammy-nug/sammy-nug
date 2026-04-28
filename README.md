@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Emmanuel
 
-<!--
-**sammy-nug/sammy-nug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer | Go (Golang) Developer
+🌍 Based in Nigeria
+🚀 Passionate about building real-world tools and contributing to open source
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 🌱 Currently learning **Go (Golang)** and backend development
+* 🛠️ Building CLI tools and interactive web projects
+* 🤝 Interested in open source and collaborative coding
+* 🎯 Goal: Become a strong software engineer through real-world experience
+
+---
+
+## 🧠 Tech Stack
+
+* **Languages:** Go, JavaScript, Python, HTML, CSS
+* **Tools:** Git, GitHub, Gitea, Linux, VS Code
+* **Other:** Problem-solving, debugging, clean code practices
+
+---
+
+## 🚀 Projects
+
+### 🧾 Text Processing Tool (Go)
+
+A command-line tool that reads input files, applies transformations, and outputs results.
+
+* File I/O handling
+* String manipulation
+* Error handling
+
+👉 
+
+---
+
+### 🧱 Mario Pyramid Builder
+
+Interactive web app inspired by CS50
+
+* Dynamic input handling
+* Pixel-style UI
+* Built with HTML, CSS, JavaScript
+
+👉 
+
+---
+
+## 📈 What I'm Working On
+
+* Improving Go skills through real projects
+* Learning backend fundamentals
+* Preparing for open source contributions
+
+---
+
+## 📫 Contact Me
+
+* Email: [emmanuelsamuel259@gmail.com](mailto:emmaunuelsamuel259@gmail.com)
+* GitHub: https://github.com/sammy-nug
+
+---
+
+⭐ *“Always learning. Always building.”*
