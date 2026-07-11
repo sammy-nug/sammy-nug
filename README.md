@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Samuel Emmanuel
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 💻 Aspiring Software Engineer | Go (Golang) Developer
 🌍 Based in Nigeria
 🚀 Passionate about building real-world tools and contributing to open source
