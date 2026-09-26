@@ -20,7 +20,7 @@
 
 ## About Me
 
-I’m Samuel Emmanuel, an AI native full-stack engineer with a growing focus on Go, JavaScript, and backend fundamentals. My background in Urban and Regional Planning gives me a systems-first way of thinking, and I bring that mindset into the tools and interfaces I build.
+I’m Samuel Emmanuel, an AI native full-stack engineer with a growing focus on Python, Go, JavaScript, and backend fundamentals. My background in Urban and Regional Planning gives me a systems-first way of thinking, and I bring that mindset into the tools and interfaces I build.
 
 I enjoy shipping small but useful products, experimenting with new ideas, and using GitHub as a learning log.
 
