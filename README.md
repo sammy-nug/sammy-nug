@@ -42,7 +42,8 @@ I enjoy shipping small but useful products, experimenting with new ideas, and us
 ## What I’m Good At
 
 - Building interactive web experiences with HTML, CSS, and JavaScript
-- Learning and practicing Go through hands-on projects
+- Prompt Engineering
+- Learning and practicing Python through hands-on projects
 - Turning ideas into simple tools, demos, and prototypes
 - Working cleanly with Git, GitHub, and collaborative workflows
 
@@ -141,7 +142,7 @@ These are the projects I’m actively building and learning from on GitHub.
 
 ## Currently Working On
 
-- Sharpening my Go skills through real projects
+- Sharpening my Python skills through real projects
 - Building more polished frontend experiences
 - Learning backend patterns by shipping and iterating
 - Creating more open-source-friendly work
